@@ -6,10 +6,11 @@ draft = false
 
 +++
 
-Ini Postingan Pertama saya
 
-1. ini postingan artikel selanjutnya
-   | col1 | col2 | col3 |
-   | ---- | ---- | ---- |
-   |      |      |      |
-   |      |      |      |
+Ini Postingan Pertama saya 
+
+Software paling penting saai ini untuk UI designer
+
+![Scenario 1: Across columns](/across_column.png)
+
+ ![ figma fo ui designer]()] (/figma-static.jpeg 'figma for UI designer')
